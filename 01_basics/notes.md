@@ -35,3 +35,9 @@ TypeScript is a **superset of JavaScript** developed by Microsoft. It adds **sta
 - 📘 Better documentation through types
 - 🧠 Improved developer productivity
 - 📈 Easier to maintain large codebases
+
+
+### ❓ **5. What is static and dynamic typing?**
+💡 **Answer:**  
+- **Static Typing:** The variable types are known and checked at compile time (e.g., TypeScript, Java, C++).
+- **Dynamic Typing:** The variable types are determined at runtime (e.g., JavaScript, Python).
